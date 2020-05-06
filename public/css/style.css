@@ -1,0 +1,54 @@
+body{
+background-color: beige;
+color: rgb(71, 128, 212);
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.form1{
+    background-color: rgb(71, 128, 212);
+    height: 450px; 
+    text-align: center;
+    color: #ffffff;
+    border-radius: 7px;
+    
+    
+}
+#registerForm{
+border: 3px solid rgb(71, 128, 212);
+border-radius: 7px;
+text-align: center;
+}
+
+input[type=text], input[type=password]{
+    border-radius: 5px;
+    text-align: center;
+    border-bottom: olive 3px solid;
+}
+.form1 > button{
+    border-radius: 3px;
+    padding: 5px;
+    margin-left: 43px;
+    margin-right: 43px;
+ }
+  #cancel{
+      background:#f51403;;
+      color: #ffffff;
+      width: 100px;
+      
+  }
+  #login{
+      background: rgb(0, 151, 0);
+      color: #ffffff;
+      width: 100px;
+      
+  }
+  #footer{
+      background-color: rgb(71, 128, 212);
+      text-align: center; 
+      color: white;
+      height: 35px;
+      margin: 3px;
+      padding: 5px auto;
+  }
+
+  
